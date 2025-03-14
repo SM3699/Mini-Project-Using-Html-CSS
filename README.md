@@ -1,2 +1,2 @@
 # Mini Project
-Project on Photography Side Bar usin HTML & CSS.
+Project on Photography Side Bar using HTML & CSS.
